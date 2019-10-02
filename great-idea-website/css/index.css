@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 h1{
-	font-size: 50px;
+	font-size: 80px;
 	width: 200px;
 	padding: 100px; 
 }
@@ -82,10 +82,12 @@ a {
 	padding: 40px;
 }
 
-.header{
-	display
+.hero{
+	position: absolute;
+	top: 100px;
+	right: 300px;
+	
 }
-
 .button{
 	display: inline-block;
 	width: 110px;
