@@ -66,6 +66,8 @@ h1, h2, h3, h4, h5 {
 
 h1{
 	font-size: 50px;
+	width: 200px;
+	padding: 100px; 
 }
 
 h2{
@@ -81,7 +83,7 @@ a {
 }
 
 .header{
-	
+	display
 }
 
 .button{
