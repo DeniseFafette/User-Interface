@@ -73,7 +73,7 @@ h1{
 h2{
 	font-size: 20px;
 	width: 50%;
-	border: 1px solid purple;
+	/* border: 1px solid purple; */
 }
 
 .navigation{
@@ -81,7 +81,8 @@ h2{
 }
 
 a {
-	padding: 40px;
+	margin: 40px;
+	padding: 10px;
 }
 
 .hero{
@@ -101,13 +102,13 @@ a {
 }
 .top-content{
 	width: 100%;
-	margin: 20px;
-	border: 1px solid blue;
+	margin: 40px;
+	/* border: 1px solid blue; */
 }
 p {
 	display: inline-block;
 	width: 50%;
-	border: 1px solid red
+	/* border: 1px solid red; */
 	font-size: 16px;
 }
 .top-div{
@@ -115,14 +116,19 @@ p {
 	width: 48%;
 }
 .bottom-content{
-	display: block;
-	width: 48%;
+	width: 90%;
+	margin: 40px;
+	/* border: 1px solid blue; */
 }
 
+.bottom-div{
+	display: inline-block;
+	width: 32%;
+}
 .contact{
-
+ margin: 40px;
 }
 
 .footer{
-
+ text-align: center;
 }
